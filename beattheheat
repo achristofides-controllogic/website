@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40051355-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-40051355-1');
+</script>
+  
+    <!-- Title -->
+    <title>Pfannenberg Promotion | Pfannenberg Cooling Units | Control Logic</title>
+
+    <!-- Required Meta Tags Always Come First -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="../../LandingPages/css/image/favicon.ico">
+
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%7CPlayfair+Display%7CRoboto%7CRaleway%7CSpectral%7CRubik">
+
+    <!-- CSS Global Compulsory -->
+    <link rel="stylesheet" href="../../LandingPages/css/bootstrap.min.css">
+
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="../../LandingPages/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../LandingPages/css/simple-line-icons.css">
+    <link rel="stylesheet" href="../../LandingPages/css/style.css">
+    <link rel="stylesheet" href="../../LandingPages/css/hamburgers.min.css">
+    <link rel="stylesheet" href="../../LandingPages/css/animate.css">
+    <link rel="stylesheet" href="../../LandingPages/css/dzsparallaxer.css">
+    <link rel="stylesheet" href="../../LandingPages/css/scroller.css">
+    <link rel="stylesheet" href="../../LandingPages/css/plugin.css">
+    <link rel="stylesheet" href="../../LandingPages/css/jquery.fancybox.css">
+    <link rel="stylesheet" href="../../LandingPages/css/cubeportfolio.min.css">
+    <link rel="stylesheet" href="../../LandingPages/css/slick.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">	
+
+    <!-- CSS Template -->
+    <link rel="stylesheet" href="../../LandingPages/css/styles.op-app1.css">
+
+    <!-- CSS Customization -->
+    <link rel="stylesheet" href="../../LandingPages/css/custom.css">
+  </head>
+
+  <body>
+    <main>
+      <!-- Header v1 -->
+      <header id="js-header" class="u-header u-header--sticky-top u-header--show-hide u-header--toggle-section"
+              data-header-fix-moment="100"
+              data-header-fix-effect="slide">
+        <div class="u-header__section u-shadow-v27 g-bg-white g-transition-0_3 g-py-12 g-py-20--md">
+          <nav class="navbar navbar-expand-lg py-0 g-px-15">
+            <div class="container g-pos-rel">
+              <!-- Logo -->
+              <a href="http://www.control-logic.com.au" class="navbar-brand u-header__logo">
+                <img class="u-header__logo-img u-header__logo-img--main g-width-130" src="../../LandingPages/image/CL-2018.png" alt="Image description">
+              </a>
+              <!-- End Logo -->
+
+              <div id="navBar" class="collapse navbar-collapse">
+                <!-- Navigation -->
+                <div class="navbar-collapse align-items-center flex-sm-row">
+                  <ul id="js-scroll-nav" class="navbar-nav g-flex-right--xs text-uppercase w-100 g-font-weight-700 g-font-size-11 g-pt-20 g-pt-0--lg">
+                    <li class="nav-item g-mr-15--lg g-mb-7 g-mb-0--lg active">
+                      <a href="#home" class="nav-link p-0">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    
+                    <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
+                      <a href="#benefits" class="nav-link p-0">Benefits</a>
+                    </li>
+                
+                    <li class="nav-item g-mx-15--lg g-mb-7 g-mb-0--lg">
+                      <a href="#DTS8000" class="nav-link p-0">DTS8000 Series</a>
+                     </li>
+                     <li class="nav-item g-ml-15--lg g-mb-7 g-mb-0--lg">
+                      <a href="#DTT6000" class="nav-link p-0">DTT6000 Series</a>          
+                    </li>
+                     <li class="nav-item g-ml-15--lg g-mb-7 g-mb-0--lg">
+                      <a href="#request" class="nav-link p-0">Request Pricing</a>
+                      
+                    </li>
+                  </ul>
+                </div>
+                <!-- End Navigation -->
+
+                
+              </div>
+
+              <!-- Responsive Toggle Button -->
+              <button class="navbar-toggler btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-15 g-right-0" type="button"
+                      aria-label="Toggle navigation"
+                      aria-expanded="false"
+                      aria-controls="navBar"
+                      data-toggle="collapse"
+                      data-target="#navBar">
+                <span class="hamburger hamburger--slider">
+                  <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                  </span>
+                </span>
+              </button>
+              <!-- End Responsive Toggle Button -->
+            </div>
+          </nav>
+        </div>
+      </header>
+      <!-- End Header v1 -->
+
+      <!-- Section Content -->
+      <section id="home" class="g-theme-bg-gray-light-v1 g-pt-90">
+        <div class="container">
+          <div class="row">
+    <div class="col-md-2 col-lg-2 g-overflow-hidden"><BR><BR><BR>
+              <img class="img-fluid" src="../../images/penguin4.png" alt="Image description" data-animation="slideInLeft" data-animation-duration="300">
+                   </div>
+            <div class="col-md-5 col-lg-5 ml-lg-auto d-flex text-center text-md-left">
+              <div class="align-self-center"><br>
+               <img class="img-fluid" src="../../images/Pfannenberg.Logo.png" width="150%" alt="Image description">
+                   <BR><BR>
+                <h2 class="text-uppercase g-line-height-1_3 g-font-size-36 g-mb-20 g-mb-30--lg"><strong>Pfannenberg cooling units</h2></strong>
+                  <h3>Our Lowest Prices EVER!</h3>
+                <p class="g-mb-20 g-mb-35--lg">on selected DTS & DTT cooling units from Pfannenberg. <BR> <i>*Offer must end 16/12/2019</i></p>
+                <a href="#request" class="navbar-brand u-header__logo">
+                <img class="u-header__logo-img u-header__logo-img--main g-width-130" src="../../LandingPages/image/requestpricing.png" alt="Image description">
+              </a><BR><BR>
+              </div>
+            </div>
+
+            <div class="col-md-5 col-lg-5 g-overflow-hidden"><BR><BR>
+              <img class="img-fluid" src="../../images/Pfannenberg-cooling--images.png" width="450"height="450" alt="Image description"
+                   data-animation="slideInUp"><BR><BR>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Section Content -->
+
+  
+
+      <!-- Section Content -->
+      <section id="benefits" class="g-py-60">
+        <div class="container text-center g-max-width-1150 g-mb-65">
+          <div class="text-uppercase g-line-height-1_3 g-mb-20">
+            <div class="text-uppercase g-line-height-1_3 g-mb-20">
+          
+                   
+            <h4 class="g-font-weight-700 g-font-size-11 g-mb-15"><span class="g-color-blue">01.</span> Beat the Heat and SAVE!</h4>
+            <h2 class="g-line-height-1_3 g-font-size-36 mb-0"><strong>Cooling unit solutions</strong></h2>
+            <p class="mb-0">Cooling Units designed to meet all future requirements</p>
+          </div></div>
+
+          <p class="mb-0">With optimal energy-efficiency in mind, Pfannenberg's range of air-cooling combine the latest in intelligent electronics. The <span style="color:LightGreen"><b>ε</b></span>COOL unit range, reduce your energy consumption by up to 43%, get 48% less CO<sup>2</sup> emmisons, 80% shorter service/repair times and 10% less energy consumption in stand-by mode. Additionally Pfannenberg's free software tool lets you effectively calculate your tailored product recommendations.
+          </p>
+        </div>
+
+        <div class="container">
+          <!-- Row -->
+          <div class="row">
+            <div class="col-md-6 col-lg-4 g-mb-30">
+              <div class="text-center g-bg-gray-light-v5 g-py-40 g-px-30"
+                   data-animation="fadeIn"
+                   data-animation-duration="1500">
+                <span class="u-icon-v1 g-font-size-36 g-color-blue g-mb-30"><img src="../../images/distance-icon.png" width="200%"></i></span>
+                <h4 class="text-uppercase g-font-weight-700 g-font-size-11 g-color-black g-mb-20">Large distance In/Out no hot spots
+                </h4>
+                <p class="g-font-size-default mb-0">Eliminates hot spots in cabinets due to increased space which allows optimum airflow in the cabinet.</p><BR>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4 g-mb-30">
+              <div class="text-center g-bg-gray-light-v5 g-py-40 g-px-30"
+                   data-animation="fadeIn"
+                   data-animation-delay="200"
+                   data-animation-duration="1500">
+                <span class="u-icon-v1 g-font-size-36 g-color-blue g-mb-30"><img src="../../images/ip54-icon.png" width="150%"></i></span>
+                <h4 class="text-uppercase g-font-weight-700 g-font-size-11 g-color-black g-mb-20">Protection System
+                </h4>
+                <p class="g-font-size-default mb-0">Complete protection against harmful deposits of dust, and water from any direction allows for installation in almost all environments.</p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4 g-mb-30">
+              <div class="text-center g-bg-gray-light-v5 g-py-40 g-px-30"
+                   data-animation="fadeIn"
+                   data-animation-delay="400"
+                   data-animation-duration="1500">
+                <span class="u-icon-v1 g-font-size-36 g-color-blue g-mb-30"><img src="../../images/tool-less-icon.png" width="200%"></i></span>
+                <h4 class="text-uppercase g-font-weight-700 g-font-size-11 g-color-black g-mb-20">tool-less filter mat changing
+                </h4>
+                <p class="g-font-size-default mb-0">Save time and money with the easily accessible filter mats that do not require and special tools or skills to replace. </p><BR>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4 g-mb-30 g-mb-0--lg">
+              <div class="text-center g-bg-gray-light-v5 g-py-40 g-px-30"
+                   data-animation="fadeIn"
+                   data-animation-delay="600"
+                   data-animation-duration="1500">
+                <span class="u-icon-v1 g-font-size-36 g-color-blue g-mb-30"><img src="../../images/service-icon.png" width="150%"></i></span>
+                <h4 class="text-uppercase g-font-weight-700 g-font-size-11 g-color-black g-mb-20">service friendly</h4>
+                <p class="g-font-size-default mb-0">Taking excellent accessibility and simple maintenance into consideration, including toolless mounting and maintenance thanks to quick installation frame, Simple accessibility to all the relevant components and Plug & Play component replacement.</p><BR>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4 g-mb-30 g-mb-0--md">
+              <div class="text-center g-bg-gray-light-v5 g-py-40 g-px-30"
+                   data-animation="fadeIn"
+                   data-animation-delay="800"
+                   data-animation-duration="1500">
+                <span class="u-icon-v1 g-font-size-36 g-color-blue g-mb-30"><img src="../../images/EER-icon.png" width="160%"></i></span>
+                <h4 class="text-uppercase g-font-weight-700 g-font-size-11 g-color-black g-mb-20">top EER/energy saving
+                </h4>
+                <p class="g-font-size-default mb-0">Increased energy efficiency thanks to the use of more effective, lighter components. Designed to provide energy efficiency and improve reliability even when operating in bad conditions. An optional Multi Controller with energy-saving operation mode for increased efficiency.</p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+              <div class="text-center g-bg-gray-light-v5 g-py-40 g-px-30"
+                   data-animation="fadeIn"
+                   data-animation-delay="1000"
+                   data-animation-duration="1500">
+                <span class="u-icon-v1 g-font-size-36 g-color-blue g-mb-30"><img src="../../images/ecool.png" width="200%"></i></span>
+                <h4 class="text-uppercase g-font-weight-700 g-font-size-11 g-color-black g-mb-20">reduce energy usage up to 43%</h4>
+                <p class="g-font-size-default mb-0">The <span style="color:LightGreen"><b>ε</b></span>COOL series has made an enormous leap in development in energy efficiency.
+Specifically developed components combined with intelligent electronics of the newest generation reduce the energy consumption by up to 43 %.
+
+</p><BR>
+              </div>
+            </div>
+          </div>
+          <!-- End Row -->
+        </div>
+      </section>
+      <!-- End Section Content -->
+
+     
+
+     
+
+      <!-- Section Content -->
+      <section id="DTS8000" class="g-theme-bg-gray-light-v1 g-py-90">
+      
+        <div class="container">
+          <div class="row">
+            <div class="col-md-5 text-center g-overflow-hidden g-mb-50 g-mb-0--md">
+              <img class="img-fluid" src="../../images/470-690-DTS8000.png" alt="Image description"
+                   data-animation="slideInLeft">
+                 
+                    <a href="#request" class="navbar-brand u-header__logo">
+                <img class="u-header__logo-img u-header__logo-img--main g-width-130" src="../../LandingPages/image/requestpricing.png" alt="Image description">
+              </a><a href="../../downloads/8000 series.pdf" target="_blank" class="navbar-brand u-header__logo"><img class="u-header__logo-img u-header__logo-img--main g-width-130" src="../../images/datasheetbutton.png" alt="Image description">
+              </a> 
+            </div>
+
+            <div class="col-md-7 d-flex text-center text-md-left">
+              <div class="align-self-center">
+                <div class="text-uppercase g-mb-20">
+                  <h4 class="g-font-weight-700 g-font-size-11 g-mb-15">
+                    <span class="g-color-blue">02.</span> <strong>WALL MOUNT - DTS8000 SERIES </strong></h4>
+                  <h2 class="g-line-height-1_3 g-font-size-36 mb-0"><strong>WALL MOUNT - DTS8000 SERIES </strong> <br> Designed for the future.</h2>
+                </div>
+
+                <p class="g-mb-65">The cooling units of the DTS Series gives you flexibility in the use of availble space. They satisfy all requirements for side mounted installations.</p>
+
+                <div class="media d-block d-md-flex text-center text-md-left g-mb-30">
+                  <div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+                    <span class="u-icon-v2 u-icon-size--lg g-font-size-26 g-color-blue g-rounded-50x"><i class="fa fa-crop"></i></span>
+                  </div>
+
+                  <div class="media-body align-self-center">
+                    <h4 class="h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Slim Design</h4>
+                    <p class="g-font-size-default mb-0">Features a light and slim design that is compatible with the 7000 series mounting cut out.</p>
+                  </div>
+                </div>
+
+                <div class="media d-block d-md-flex text-center text-md-left">
+                  <div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+                    <span class="u-icon-v2 u-icon-size--lg g-font-size-26 g-color-blue g-rounded-50x"><i class="fa fa-arrows"></i></span>
+                  </div>
+
+                  <div class="media-body align-self-center">
+                    <h4 class="h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Flexible</h4>
+                    <p class="g-font-size-default mb-0">Flexible supply voltage in either 230V or 400V, with 4 cooling capacities in one cut-out.</p><br>
+                  </div>
+                </div>
+                <div class="media d-block d-md-flex text-center text-md-left g-mb-30">
+                  <div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+                    <span class="u-icon-v2 u-icon-size--lg g-font-size-26 g-color-blue g-rounded-50x"><i class="fa fa-shield"></i></span>
+                  </div>
+
+                  <div class="media-body align-self-center">
+                    <h4 class="h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Reliable</h4>
+                    <p class="g-font-size-default mb-0">Passed condensation tests in extreme environments to provide confidence and reliability.</p>
+                  </div>
+                </div>
+                <div class="media d-block d-md-flex text-center text-md-left g-mb-30">
+                  <div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+                    <span class="u-icon-v2 u-icon-size--lg g-font-size-26 g-color-blue g-rounded-50x"><i class="fa fa-lock"></i></span>
+                  </div>
+
+                  <div class="media-body align-self-center">
+                    <h4 class="h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Versatile</h4>
+                    <p class="g-font-size-default mb-0">Optional pre-filter available for extremely dusty and oily environments. Additionally optional integrated condensate evaporation for maintenance-free operation.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Section Content -->
+
+      <!-- Section Content -->
+      <section id="DTT6000" class="g-pt-90">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-7 d-flex g-mb-30 g-mb-0--lg">
+              <div class="align-self-center">
+                <div class="text-uppercase g-line-height-1_3 g-mb-20">
+                  <h4 class="g-font-weight-700 g-font-size-11 g-mb-15">
+                    <span class="g-color-blue">03.</span> <strong>ROOF MOUNT - DTT6000 SERIES </strong></h4>
+                  <h2 class="g-line-height-1_3 g-font-size-36 mb-0"><strong>ROOF MOUNT - DTT6000 SERIES </strong> <br> Designed for the future.</h2>
+                </div>
+
+                <p class="g-mb-65">Units in the DTT series require even less space than the DTS series. Top-mounted cooling units provide the perfect solution for the most limited spaces and 100% protection against condensate.</strong></p>
+<div class="media d-block d-md-flex text-center text-md-left g-mb-30">
+                  <div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+                    <span class="u-icon-v2 u-icon-size--lg g-font-size-26 g-color-blue g-rounded-50x"><i class="fa fa-lock"></i></span>
+                  </div>
+
+                  <div class="media-body align-self-center">
+                    <h4 class="h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Protection</h4>
+                    <p class="g-font-size-default mb-0">Provides fourfold condensate protection, including no-cold bridge to the electrical enclosure cover, no overfolow of condensate into the electrical enclosure, no condensate buildup in the airflow and no air hoses whate are otherwise at risk of condensation.</p>
+                  </div>
+                </div>
+
+                <div class="media d-block d-md-flex text-center text-md-left">
+                  <div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+                    <span class="u-icon-v2 u-icon-size--lg g-font-size-26 g-color-blue g-rounded-50x"><i class="fa fa-arrows"></i></span>
+                  </div>
+
+                  <div class="media-body align-self-center">
+                    <h4 class="h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Flexible</h4>
+                    <p class="g-font-size-default mb-0">Flexible supply voltage in either 230V or 400V, from 500 to 4000 watts.</p>
+                  </div>
+                </div>
+                <div class="media d-block d-md-flex text-center text-md-left g-mb-30">
+                  <div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+                    <span class="u-icon-v2 u-icon-size--lg g-font-size-26 g-color-blue g-rounded-50x"><i class="fa fa-heartbeat"></i></span>
+                  </div>
+
+                  <div class="media-body align-self-center"><BR><BR>
+                    <h4 class="h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Robust</h4>
+                    <p class="g-font-size-default mb-0">Powder coated steel designed for manufacturing environments. Easily painted to match enclosure or machine. Stainless Steel Optional.</p>
+                  </div>
+                </div>
+                <div class="media d-block d-md-flex text-center text-md-left g-mb-30">
+                  <div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+                    <span class="u-icon-v2 u-icon-size--lg g-font-size-26 g-color-blue g-rounded-50x"><i class="fa fa-cogs"></i></span>
+                  </div>
+
+                  <div class="media-body align-self-center">
+                    <h4 class="h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Efficient</h4>
+                    <p class="g-font-size-default mb-0">Micro-channel design provides greater efficiency with up to 40% increased heat rejection vs standard condensers, improving the transfer of heat from the refridgerant into the ambient air.</p>
+                    
+                  </div>
+                </div>
+                
+                <div id="whyOurAppAccordion" class="u-accordion" role="tablist" aria-multiselectable="true">
+                 
+
+                                
+
+                
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-5 text-center g-overflow-hidden">
+              <img class="img-fluid" src="../../images/470-690-DTT6000.png" alt="Image description"
+                   data-animation="slideInRight">
+                   
+                    <a href="#request" class="navbar-brand u-header__logo">
+                <img class="u-header__logo-img u-header__logo-img--main g-width-130" src="../../LandingPages/image/requestpricing.png" alt="Image description">
+              </a> <a href="../../downloads/Pfannenberg_Product_Sheet_DTT_6000-TOP.pdf" target="_blank" class="navbar-brand u-header__logo"><img class="u-header__logo-img u-header__logo-img--main g-width-130" src="../../images/datasheetbutton.png" alt="Image description">
+              </a> 
+            </div>
+          </div>
+         <div class="col-lg-12 text-center g-overflow-hidden">
+          <img src="../../images/penguins.gif"><BR><BR>
+        </div></div>
+
+      </section>
+      <!-- End Section Content -->
+
+      
+
+     
+
+      <!-- Section Content -->
+      <center>
+      <section id="request" class="g-bg-blue g-pt-90 g-pb-30 g-pb-90--lg">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 g-mb-20 g-mb-0--lg">
+              <div class="text-uppercase g-mb-20">
+                               <a href="#request" class="navbar-brand u-header__logo">
+                <img class="u-header__logo-img u-header__logo-img--main g-width-130" src="../../LandingPages/image/CL-2018-inverse.png" alt="Image description">
+              </a><br><br>
+                <h2 class="g-font-size-36 g-color-white mb-0">Get access to our promotional pricing for the <strong>Pfannenberg </strong>cooling units below.</h2>
+                
+              </div>
+              <p class="g-font-size-default mb-0"><span class="g-color-white">Save now with Control Logic. Simply fill in your details below to instantly receive our promotional pricing on selected Pfannenberg products! <br> These are our <b>Lowest prices ever!</b> and are for <i>a limited time only.</i></span></p>
+              <BR><BR>
+              <div class="_form_87"></div><script src="https://controllogic.activehosted.com/f/embed.php?id=87" type="text/javascript" charset="utf-8"></script>
+            </div>
+           
+
+            
+          </div>
+        </div>
+        </center>
+      </section>
+      <!-- End Section Content -->
+
+      
+
+      <a class="js-go-to u-go-to-v1" href="#"
+         data-type="fixed"
+         data-position='{
+           "bottom": 15,
+           "right": 15
+         }'
+         data-offset-top="400"
+         data-compensation="#js-header"
+         data-show-effect="zoomIn">
+        <i class="hs-icon hs-icon-arrow-top"></i>
+      </a>
+    </main>
+
+    <!-- JS Global Compulsory -->
+    <script src="../../LandingPages/js/jquery.min.js"></script>
+    <script src="../../LandingPages/js/jquery-migrate.min.js"></script>
+    <script src="../../LandingPages/js/jquery.easing.js"></script>
+    <script src="../../LandingPages/js/popper.min.js"></script>
+    <script src="../../LandingPages/js/bootstrap.min.js"></script>
+
+    <!-- JS Implementing Plugins -->
+    <script src="../../LandingPages/js/appear.js"></script>
+    <script src="../../LandingPages/js/dzsparallaxer.js"></script>
+    <script src="../../LandingPages/js/scroller.js"></script>
+    <script src="../../LandingPages/js/plugin.js"></script>
+    <script src="../../LandingPages/js/jquery.fancybox.js"></script>
+    <script src="../../LandingPages/js/jquery.cubeportfolio.min.js"></script>
+    <script src="../../LandingPages/js/slick.js"></script>
+
+    <!-- JS Unify -->
+    <script src="../../LandingPages/js/hs.core.js"></script>
+    <script src="../../LandingPages/js/hs.header.js"></script>
+    <script src="../../LandingPages/js/hs.hamburgers.js"></script>
+    <script src="../../LandingPages/js/hs.scroll-nav.js"></script>
+    <script src="../../LandingPages/js/hs.onscroll-animation.js"></script>
+    <script src="../../LandingPages/js/hs.tabs.js"></script>
+    <script src="../../LandingPages/js/hs.cubeportfolio.js"></script>
+    <script src="../../LandingPages/js/hs.popup.js"></script>
+    <script src="../../LandingPages/js/hs.carousel.js"></script>
+    <script src="../../LandingPages/js/hs.go-to.js"></script>
+
+    <!-- JS Customization -->
+    <script src="../../LandingPages/js/custom.js"></script>
+
+    <!-- JS Plugins Init. -->
+    <script>
+      $(document).on('ready', function () {
+        // initialization of carousel
+        $.HSCore.components.HSCarousel.init('.js-carousel');
+
+        $('#carouselCus1').slick('setOption', 'responsive', [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 3
+          }
+        }, {
+          breakpoint: 992,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2
+          }
+        }, {
+          breakpoint: 576,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }], true);
+
+        // initialization of header
+        $.HSCore.components.HSHeader.init($('#js-header'));
+        $.HSCore.helpers.HSHamburgers.init('.hamburger');
+
+        // initialization of tabs
+        $.HSCore.components.HSTabs.init('[role="tablist"]');
+
+        // initialization of scroll animation
+        $.HSCore.components.HSOnScrollAnimation.init('[data-animation]');
+
+        // initialization of go to section
+        $.HSCore.components.HSGoTo.init('.js-go-to');
+
+        // initialization of popups
+        $.HSCore.components.HSPopup.init('.js-fancybox-media', {
+          helpers: {
+            media: {},
+            overlay: {
+              css: {
+                'background': 'rgba(255, 255, 255, .8)'
+              }
+            }
+          }
+        });
+      });
+
+      $(window).on('load', function() {
+        // initialization of HSScrollNav
+        $.HSCore.components.HSScrollNav.init($('#js-scroll-nav'), {
+          duration: 700,
+          easing: 'easeOutExpo'
+        });
+
+        // initialization of cubeportfolio
+        $.HSCore.components.HSCubeportfolio.init('.cbp');
+      });
+
+      $(window).on('resize', function () {
+        setTimeout(function () {
+          $.HSCore.components.HSTabs.init('[role="tablist"]');
+        }, 200);
+      });
+    </script>
+  </body>
+</html>
